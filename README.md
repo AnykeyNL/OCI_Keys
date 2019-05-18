@@ -11,4 +11,7 @@ This code you can run on a webserver and will automatically create private and p
 You can test it out here:
 www.oci-workshop.com/keys
 
+## Disclaimer
+This is a personal repositorie. Any code, views or opinions represented here are personal and belong solely to me and do not represent those of people, institutions or organizations that I may or may not be associated with in professional or personal capacity, unless explicitly stated.
+
 
