@@ -1,5 +1,5 @@
 # OCI_Keys
-Code to auto generate SSH and PEM keyfiles for OCI
+Code to auto generate OpenSSH and Putty SSH keyfiles that can be used for OCI SSH/API Access
 
 ## Why?
 I have been organizing hands-on workshop for the Oracle Cloud Infrastructure and found that people (especially windows-based users) struggle creating the right kind of key files for OCI. 
